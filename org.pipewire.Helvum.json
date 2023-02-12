@@ -26,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.freedesktop.org/pipewire/helvum/uploads/ab71dd1738aa59dd9139faa951c13ee8/helvum-0.3.4.tar.xz",
-                    "sha256": "7674c4e5db621f73baa2172921ccff80ec8a86c74b1d2a3823a34e60ddcf43a6"
+                    "url": "https://gitlab.freedesktop.org/pipewire/helvum/uploads/2b68fb86bf4b988c3183de123dfd1065/helvum-0.4.0.tar.xz",
+                    "sha256": "d5debaf091ed988b9ea08d739ee8a0751286e40dd44b9911a2ae15f08479a657"
                 }
             ]
         }
