@@ -13,8 +13,7 @@
         "--socket=wayland",
         "--device=dri",
         "--share=ipc",
-        "--filesystem=xdg-run/pipewire-0",
-        "--filesystem=host"
+        "--filesystem=xdg-run/pipewire-0"
     ],
     "build-options": {
         "append-path": "/usr/lib/sdk/rust-stable/bin:/usr/lib/sdk/llvm22/bin",
@@ -27,8 +26,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.freedesktop.org/-/project/8123/uploads/62f7010f738807f8292a2d8223b257c5/helvum-0.6.0.tar.xz",
-                    "sha256": "013266a1ecdebc4d5f6eae948344c7b76be177ac2ab2b274290ea1aa0283024a"
+                    "url": "https://gitlab.freedesktop.org/-/project/8123/uploads/e7f650e0a80c863925dd47f59b32a4ad/helvum-0.6.0.tar.xz",
+                    "sha256": "ad786c7115b29b675aa7badba888db4d65ecc0a0e2b90dcf169c04ba6f9c5cfd"
                 }
             ]
         }
